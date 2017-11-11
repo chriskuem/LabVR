@@ -86,9 +86,9 @@ public class GenerateTiles : MonoBehaviour {
 		activeArray [activeX+1] [activeZ]++;
 
 		//player Placement
-		var placedPlayer = Instantiate (player, labArray [activeX] [activeZ].transform.position, Quaternion.identity);
-		placedPlayer.name = "Player1";
-		placedPlayer.transform.parent = transform;
+		// var placedPlayer = Instantiate (player, labArray [activeX] [activeZ].transform.position, Quaternion.identity);
+		// placedPlayer.name = "Player1";
+		// placedPlayer.transform.parent = transform;
 	
 
 		while (!GenerationFinished) {
