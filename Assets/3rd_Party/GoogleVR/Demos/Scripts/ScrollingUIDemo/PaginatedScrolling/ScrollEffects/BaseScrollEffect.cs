@@ -15,29 +15,31 @@
 using UnityEngine;
 using System.Collections;
 
-/// This script implements effects for visualizing
-/// the scrolling of a PagedScrollRect.
-///
-/// Scroll effects must be placed on the same object as the PagedScrollRect.
-/// Multiple scroll effects can be mixed together. They will be applied in the order
-/// of the components on the object.
-///
-/// Three example implementations are included:
-/// TranslateScrollEffect - Change the position of the page linearly based on the scroll offset.
-/// FadeScrollEffect - Change the opacity of the page linearly based on the scroll offset.
-/// ScaleScrollEffect - Change the scale of the page linearly based on the scroll offset.
-public abstract class BaseScrollEffect : MonoBehaviour {
-  public struct UpdateData {
-    public RectTransform page;
-    public int pageIndex;
-    public int pageCount;
-    public float pageOffset;
-    public float scrollOffset;
-    public float spacing;
-    public bool looping;
-    public bool isInteractable;
-    public float moveDistance;
-  }
+namespace DaydreamElements.Common {
+  /// This script implements effects for visualizing
+  /// the scrolling of a PagedScrollRect.
+  ///
+  /// Scroll effects must be placed on the same object as the PagedScrollRect.
+  /// Multiple scroll effects can be mixed together. They will be applied in the order
+  /// of the components on the object.
+  ///
+  /// Three example implementations are included:
+  /// TranslateScrollEffect - Change the position of the page linearly based on the scroll offset.
+  /// FadeScrollEffect - Change the opacity of the page linearly based on the scroll offset.
+  /// ScaleScrollEffect - Change the scale of the page linearly based on the scroll offset.
+  public abstract class BaseScrollEffect : MonoBehaviour {
+    public struct UpdateData {
+      public RectTransform page;
+      public int pageIndex;
+      public int pageCount;
+      public float pageOffset;
+      public float scrollOffset;
+      public float spacing;
+      public bool looping;
+      public bool isInteractable;
+      public float moveDistance;
+    }
 
-  public abstract void ApplyEffect(UpdateData updateData);
+    public abstract void ApplyEffect(UpdateData updateData);
+  }
 }
