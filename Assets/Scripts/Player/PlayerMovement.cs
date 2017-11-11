@@ -1,0 +1,21 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlayerMovement : MonoBehaviour {
+
+    public float distance = 5f;
+    public Camera camera;
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update() {
+        // if Controller is touched move in camera direction
+        if (GvrControllerInput.IsTouching) {
+            transform.position = transform.position + Camera.main.transform.forward * distance * Time.deltaTime;
+        }
+    }
+}
