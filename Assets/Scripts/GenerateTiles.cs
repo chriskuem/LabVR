@@ -25,6 +25,8 @@ public class GenerateTiles : MonoBehaviour {
 
 	bool GenerationFinished=false;
 
+	private bool playerIsInitialised = false;
+
 	// Use this for initialization
 	void Start () {
 		activeX = 0;
@@ -86,10 +88,12 @@ public class GenerateTiles : MonoBehaviour {
 		activeArray [activeX+1] [activeZ]++;
 
 		//player Placement
-		// var placedPlayer = Instantiate (player, labArray [activeX] [activeZ].transform.position, Quaternion.identity);
-		// placedPlayer.name = "Player1";
-		// placedPlayer.transform.parent = transform;
-	
+		if(!playerIsInitialised) {
+			var placedPlayer = Instantiate (player, labArray [activeX] [activeZ].transform.position + new Vector3(-10,0,-10), Quaternion.identity);
+			placedPlayer.name = "Player1";
+			placedPlayer.transform.parent = transform;
+			playerIsInitialised = true;
+		}
 
 		while (!GenerationFinished) {
 
