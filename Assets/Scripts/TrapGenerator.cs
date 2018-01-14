@@ -17,6 +17,12 @@ public class TrapGenerator : MonoBehaviour {
 				var placedTrap1 = Instantiate (Trap1, transform.position, Quaternion.identity);
 				placedTrap1.name = "SpikeTrap";
 				placedTrap1.transform.parent = transform;
+
+				//randomly rotate spikes 90°
+				int turn = System.Convert.ToInt32 (Random.value * 100);
+				if (turn < 50) {
+					placedTrap1.transform.Rotate (0, 90, 0);
+				}
 			}
 		}
 	}
