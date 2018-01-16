@@ -41,6 +41,7 @@ GameObject:
   - component: {fileID: 136730974105556418}
   - component: {fileID: 114902670929269864}
   - component: {fileID: 114669799738012942}
+  - component: {fileID: 114565980172778342}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -799,6 +800,17 @@ MonoBehaviour:
     touching: 0
     touchPos: {x: 0.5, y: 0.5}
   maximumAlpha: 1
+--- !u!114 &114565980172778342
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1043902612790008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcc4feb3d631a864a97ba6e462109c17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114598847890212602
 MonoBehaviour:
   m_ObjectHideFlags: 1
