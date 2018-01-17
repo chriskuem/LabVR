@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fileFormatVersion: 2
 guid: e5322a8ec66ca994c8a9ba2a9e3020fb
 timeCreated: 1490716228
@@ -6,3 +7,13 @@ NativeFormatImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: e5322a8ec66ca994c8a9ba2a9e3020fb
+timeCreated: 1490716228
+licenseType: Pro
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> origin/od_GamePlayElements

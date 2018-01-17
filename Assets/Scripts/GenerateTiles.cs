@@ -8,6 +8,7 @@ public class GenerateTiles : MonoBehaviour {
 	public GameObject player;
 
 	public int labSize;
+	public int minCornersToCenter;
 
 	List<List<GameObject>> labArray;
 	List<List<int>> activeArray;
@@ -50,7 +51,7 @@ public class GenerateTiles : MonoBehaviour {
 		//LabArray
 		labArray = new List<List<GameObject>>();
 
-		float labScale = emptyTile.transform.localScale.x * 0.8f;
+		float labScale = emptyTile.transform.localScale.x;//* 0.8f;
 
 		for (int x = 0; x < labSize; x++) {
 			List<GameObject> line = new List<GameObject> ();
@@ -89,7 +90,7 @@ public class GenerateTiles : MonoBehaviour {
 
 		//player Placement
 		if(!playerIsInitialised) {
-			var placedPlayer = Instantiate (player, labArray [activeX] [activeZ].transform.position + new Vector3(-10,0,-10), Quaternion.identity);
+			var placedPlayer = Instantiate (player, labArray [activeX] [activeZ].transform.position /*+ new Vector3(-10,0,-10)*/, Quaternion.identity);
 			placedPlayer.name = "Player1";
 			placedPlayer.transform.parent = transform;
 			playerIsInitialised = true;
@@ -193,7 +194,7 @@ public class GenerateTiles : MonoBehaviour {
 			if (UnityEngine.AI.NavMesh.CalculatePath (center, start, UnityEngine.AI.NavMesh.AllAreas, path2)) {
 				for (int i = 0; i < path2.corners.Length - 1; i++)
 					Debug.DrawLine (path2.corners [i], path2.corners [i + 1], Color.red);
-				if (path2.corners.Length < 4) {
+				if (path2.corners.Length < minCornersToCenter) {
 					//neu generieren
 					for (int i = 0; i < labArray.Count; i++) {
 						for (int o = 0; o < labArray.Count; o++) {
