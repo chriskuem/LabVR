@@ -10,9 +10,10 @@ public class Collisions : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		startPos = transform.position;
+		startRot = transform.rotation;
 
-		startRot = Quaternion.LookRotation (new Vector3(0,0,0)-transform.position);
-		transform.rotation = startRot;
+		// startRot = Quaternion.LookRotation (new Vector3(0,0,0)-transform.position);
+		// transform.rotation = startRot;
 	}
 	
 	// Update is called once per frame

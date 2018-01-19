@@ -16,7 +16,7 @@ public class MinotaurBehaviour : MonoBehaviour {
 	void FixedUpdate () {
 		if (target == null) {
 			//player
-			target = GameObject.Find ("Player1").transform;
+			target = GameObject.Find ("Player").transform;
 
 		} else {
 
@@ -24,7 +24,7 @@ public class MinotaurBehaviour : MonoBehaviour {
 			float dist = Vector3.Distance(target.position, transform.position);
 
 			//rotate into direction of player if far away
-			if (dist > 2) {
+			if (dist > 0) {
 				var lookPos = target.position - transform.position;
 				lookPos.y = 0;
 				var rotation = Quaternion.LookRotation (lookPos);
