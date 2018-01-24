@@ -6,6 +6,7 @@ public class TrapGenerator : MonoBehaviour {
 
 	public GameObject Trap1;
 	public int SpikeRandomYesNo;
+	public int Angle;
 
 	// Use this for initialization
 	void Start () {
@@ -18,10 +19,12 @@ public class TrapGenerator : MonoBehaviour {
 				placedTrap1.name = "SpikeTrap";
 				placedTrap1.transform.parent = transform;
 
-				//randomly rotate spikes 90°
+				//randomly rotate spikes 90° or defined angle
 				int turn = System.Convert.ToInt32 (Random.value * 100);
-				if (turn < 50) {
+				if (turn < 50 && Angle == 0) {
 					placedTrap1.transform.Rotate (0, 90, 0);
+				} else if (Angle > 0) {
+					placedTrap1.transform.Rotate (0, Angle, 0);
 				}
 			}
 		}
