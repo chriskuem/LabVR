@@ -2331,7 +2331,7 @@ Transform:
   m_LocalScale: {x: 100, y: 1, z: 100}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &80592567 stripped
 Transform:
@@ -35036,7 +35036,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1208094258
 GameObject:
@@ -39391,21 +39391,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4756819780815038, guid: ebfe589158ebe48b7acc3f8671d17ff4, type: 2}
       propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4756819780815038, guid: ebfe589158ebe48b7acc3f8671d17ff4, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 102881647240906442, guid: ebfe589158ebe48b7acc3f8671d17ff4,
-        type: 2}
-      propertyPath: m_Text
-      value: Good luck and have fun!
-      objectReference: {fileID: 0}
-    - target: {fileID: 65829026194793166, guid: ebfe589158ebe48b7acc3f8671d17ff4,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ebfe589158ebe48b7acc3f8671d17ff4, type: 2}
@@ -50448,7 +50434,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 435260, guid: 54dd8ae60378d5143b14a2e5e6a8da1e, type: 2}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 54dd8ae60378d5143b14a2e5e6a8da1e, type: 2}
@@ -55484,7 +55470,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2086141422}
   - component: {fileID: 2086141421}
-  - component: {fileID: 2086141423}
   m_Layer: 0
   m_Name: Lab
   m_TagString: Untagged
@@ -55905,18 +55890,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2086141423
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2086141420}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c63fb5f3584e3af41ab53facb78f83be, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  signPref: {fileID: 0}
 --- !u!1 &2087532419
 GameObject:
   m_ObjectHideFlags: 0

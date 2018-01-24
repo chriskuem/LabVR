@@ -23,10 +23,7 @@ GameObject:
   - component: {fileID: 65513839415144558}
   - component: {fileID: 23718903112731350}
   - component: {fileID: 208653814925495886}
-<<<<<<< HEAD
-=======
   - component: {fileID: 114654424891094928}
->>>>>>> origin/od_GamePlayElements
   m_Layer: 0
   m_Name: Tile
   m_TagString: Untagged
@@ -98,8 +95,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
-=======
 --- !u!114 &114654424891094928
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -112,7 +107,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
->>>>>>> origin/od_GamePlayElements
 --- !u!208 &208653814925495886
 NavMeshObstacle:
   m_ObjectHideFlags: 1
