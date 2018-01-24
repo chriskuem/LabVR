@@ -91,8 +91,9 @@ public class GenerateTiles : MonoBehaviour {
 		//player Placement
 		if(!playerIsInitialised) {
 			var placedPlayer = Instantiate (player, labArray [activeX] [activeZ].transform.position /*+ new Vector3(-10,0,-10)*/, Quaternion.identity);
-			placedPlayer.name = "Player1";
+			placedPlayer.name = "Player";
 			placedPlayer.transform.parent = transform;
+			placedPlayer.transform.rotation = Quaternion.LookRotation (new Vector3(0,0,0)-placedPlayer.transform.position);
 			playerIsInitialised = true;
 		}
 
