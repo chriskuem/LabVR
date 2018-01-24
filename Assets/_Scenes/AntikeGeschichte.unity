@@ -204,7 +204,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &4544599
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -432,7 +432,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &8176225
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -553,7 +553,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &11269165
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -666,7 +666,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &13841730
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -783,7 +783,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &22140289
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -896,7 +896,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &22321059
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1013,7 +1013,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &31909330
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1126,7 +1126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &36216311
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1285,7 +1285,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &39617581
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1402,7 +1402,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &42627059
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1515,7 +1515,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &47036401
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1628,7 +1628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &50601837
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1786,8 +1786,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
-  SpikeRandomYesNo: 2
-  Angle: 0
+  SpikeRandomYesNo: 1
+  AngleRandomZero90: 1
 --- !u!208 &52226704
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1904,7 +1904,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &58704712
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2067,7 +2067,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &63418099
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2184,7 +2184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &67821494
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2383,7 +2383,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &81161983
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2496,7 +2496,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &83909029
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2609,7 +2609,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &84839394
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2726,7 +2726,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &101452313
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2839,7 +2839,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &102059641
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2952,7 +2952,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &107252274
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3077,7 +3077,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &109298172
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3259,7 +3259,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &114937466
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3464,7 +3464,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &121332179
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3577,7 +3577,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &121568556
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3717,7 +3717,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &129312593
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3899,7 +3899,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &135498407
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4012,7 +4012,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &135838001
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4125,7 +4125,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &154670055
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4238,7 +4238,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &158235657
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4351,7 +4351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &159693215
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4533,7 +4533,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &168283703
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4650,7 +4650,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &171073449
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4763,7 +4763,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &172117929
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4876,7 +4876,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &174312690
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4989,7 +4989,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &175256440
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5102,7 +5102,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &180873007
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5215,7 +5215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &184485072
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5328,7 +5328,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &185683802
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5483,7 +5483,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &193841540
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5600,7 +5600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &197960862
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5717,7 +5717,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &201321412
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5830,7 +5830,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &210359936
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5993,7 +5993,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &225070930
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -6106,7 +6106,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &228392608
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -6261,7 +6261,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &235655744
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -6374,7 +6374,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &236048677
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -6533,7 +6533,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &245264392
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -6646,7 +6646,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &249495242
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -6763,7 +6763,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &254845392
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -6930,7 +6930,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &257607615
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7043,7 +7043,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &262530013
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7160,7 +7160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &264165517
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7273,7 +7273,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &268484076
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7459,7 +7459,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &271306509
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7572,7 +7572,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &273891089
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7685,7 +7685,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &274180412
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7875,7 +7875,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &299924137
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7992,7 +7992,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &304247291
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -8105,7 +8105,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &305411883
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -8310,7 +8310,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &311614275
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -8539,7 +8539,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &314401682
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -8702,7 +8702,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &318529020
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -8815,7 +8815,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &323891243
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -8928,7 +8928,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &332998967
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -9041,7 +9041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &333532322
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -9200,7 +9200,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &336719449
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -9313,7 +9313,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &338092976
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -9499,7 +9499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &351366458
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -9842,7 +9842,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &387687957
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -10047,7 +10047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &398270955
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -10168,7 +10168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &406613486
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -10281,7 +10281,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &409749712
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -10394,7 +10394,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &411882435
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -10507,7 +10507,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &423100784
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -10758,7 +10758,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &435405094
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -10879,7 +10879,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &443086988
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -11084,7 +11084,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &452731889
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -11247,7 +11247,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &457004363
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -11360,7 +11360,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &459190553
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -11541,8 +11541,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
-  SpikeRandomYesNo: 2
-  Angle: 0
+  SpikeRandomYesNo: 1
+  AngleRandomZero90: 1
 --- !u!208 &463950741
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -11655,7 +11655,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &464631100
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -11768,7 +11768,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &464768064
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -11885,7 +11885,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &471445414
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -11998,7 +11998,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &473244857
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -12111,7 +12111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &474389020
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -12224,7 +12224,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &476449376
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -12429,7 +12429,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &489262525
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -12615,7 +12615,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &505549299
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -12728,7 +12728,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &505903450
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -12841,7 +12841,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &507285556
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -12958,7 +12958,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &514036588
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -13071,7 +13071,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &516175279
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -13230,7 +13230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &522687792
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -13343,7 +13343,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &526920256
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -13611,7 +13611,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &543375160
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -13847,7 +13847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &556717089
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -14056,7 +14056,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &563870974
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -14169,7 +14169,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &565191710
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -14328,7 +14328,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &566689112
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -14487,7 +14487,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &567446000
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -14604,7 +14604,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &576027677
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -14767,7 +14767,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &593157904
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -14880,7 +14880,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &594368072
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -14993,7 +14993,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &600068561
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -15110,7 +15110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &607476069
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -15457,7 +15457,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &623226283
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -15570,7 +15570,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &623536535
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -15683,7 +15683,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &623989166
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -15842,7 +15842,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &626462169
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -16001,7 +16001,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &631171436
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -16114,7 +16114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &632610227
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -16231,7 +16231,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &634959107
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -16344,7 +16344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &637657575
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -16457,7 +16457,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &638305289
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -16616,7 +16616,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &638510531
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -16733,7 +16733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &639421562
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -16892,7 +16892,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &639628937
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -17124,7 +17124,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &644944091
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -17241,7 +17241,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &645075271
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -17427,7 +17427,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &656273082
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -17540,7 +17540,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &662366883
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -17891,7 +17891,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &687291852
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -18004,7 +18004,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &687596261
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -18117,7 +18117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &690444431
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -18230,7 +18230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &691187727
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -18343,7 +18343,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &694673168
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -18456,7 +18456,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &695327532
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -18569,7 +18569,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &696644004
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -18751,7 +18751,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &699800361
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -18933,7 +18933,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &707576192
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -19046,7 +19046,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &707706729
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -19159,7 +19159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &718237046
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -19318,7 +19318,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &722436949
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -19619,7 +19619,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &729272747
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -19736,7 +19736,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &732522762
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -19849,7 +19849,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &737010157
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -19962,7 +19962,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &743855447
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -20075,7 +20075,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &745387143
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -20188,7 +20188,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &745990255
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -20301,7 +20301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &746392266
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -20414,7 +20414,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &748426276
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -20531,7 +20531,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &749392840
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -20644,7 +20644,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &751020499
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -20803,7 +20803,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &759216993
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -20916,7 +20916,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &759792609
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -21029,7 +21029,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &762039997
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -21142,7 +21142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &763669985
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -21301,7 +21301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &768114865
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -21621,7 +21621,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &785238436
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -21815,7 +21815,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &796105521
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -21936,7 +21936,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &802642326
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -22049,7 +22049,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &808006277
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -22235,7 +22235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &809136104
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -22348,7 +22348,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &810058358
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -22461,7 +22461,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &810130070
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -22628,7 +22628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &822495532
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -22741,7 +22741,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &822709385
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -22854,7 +22854,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &831061460
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -22967,7 +22967,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &833877326
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -23153,7 +23153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &837692299
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -23312,7 +23312,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &842472371
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -23471,7 +23471,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &842898084
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -23584,7 +23584,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &845640956
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -23697,7 +23697,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &847896691
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -23939,7 +23939,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &850314695
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -24060,7 +24060,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &857180328
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -24384,7 +24384,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &876678885
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -24497,7 +24497,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &879829444
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -24660,7 +24660,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &885609846
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -24781,7 +24781,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &890623622
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -24963,7 +24963,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &893485060
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -25076,7 +25076,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &894271700
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -25193,7 +25193,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &896335835
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -25306,7 +25306,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &899165121
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -25418,8 +25418,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
-  SpikeRandomYesNo: 2
-  Angle: 0
+  SpikeRandomYesNo: 1
+  AngleRandomZero90: 2
 --- !u!208 &905950787
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -25532,7 +25532,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &908936165
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -25691,7 +25691,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &914713430
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -25804,7 +25804,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &915484977
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -25917,7 +25917,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &916968139
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -26084,7 +26084,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &924685852
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -26362,7 +26362,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &936703472
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -26475,7 +26475,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &936715878
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -26588,7 +26588,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &937110342
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -26701,7 +26701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &939739835
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -26860,7 +26860,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &952913744
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -26973,7 +26973,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &957015241
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -27086,7 +27086,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &958408825
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -27203,7 +27203,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &964880221
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -27316,7 +27316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &966699239
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -27433,7 +27433,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &967677990
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -27592,7 +27592,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &973304254
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -27866,7 +27866,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &981564229
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -27979,7 +27979,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &981991675
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -28092,7 +28092,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &985456393
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -28205,7 +28205,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &991659884
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -28318,7 +28318,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &993815654
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -28504,7 +28504,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1000478073
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -28617,7 +28617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1001132467
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -28780,7 +28780,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1005963858
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -28893,7 +28893,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1006562571
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -29006,7 +29006,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1008189376
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -29119,7 +29119,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1009713899
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -29232,7 +29232,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1013259435
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -29345,7 +29345,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1013834831
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -29504,7 +29504,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1018783622
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -29617,7 +29617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1019824354
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -29730,7 +29730,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1019851791
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -29935,7 +29935,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1024443197
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -30094,7 +30094,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1033183032
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -30207,7 +30207,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1041096413
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -30320,7 +30320,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1042053612
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -30479,7 +30479,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1047175039
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -30662,7 +30662,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1053232837
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -30779,7 +30779,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1066381728
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -30892,7 +30892,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1066618882
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -31005,7 +31005,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1068373749
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -31164,7 +31164,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1078182232
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -31277,7 +31277,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1080771859
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -31436,7 +31436,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1086317357
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -31553,7 +31553,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1094893246
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -31716,7 +31716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1111832928
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -31921,7 +31921,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1120375192
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -32103,7 +32103,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1126956775
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -32331,7 +32331,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1133281499
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -32490,7 +32490,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1140931968
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -32603,7 +32603,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1143097336
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -32716,7 +32716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1144963128
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -32829,7 +32829,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1146224957
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -32942,7 +32942,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1149378513
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -33055,7 +33055,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1149911225
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -33168,7 +33168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1151829896
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -33281,7 +33281,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1154978422
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -33440,7 +33440,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1166580738
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -33553,7 +33553,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1167932438
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -33666,7 +33666,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1170102221
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -33833,7 +33833,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1176001608
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -34046,7 +34046,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1188893130
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -34159,7 +34159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1189035998
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -34272,7 +34272,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1190946655
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -34385,7 +34385,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1196519126
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -34498,7 +34498,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1196964381
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -34611,7 +34611,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1197419940
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -34724,7 +34724,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1197457727
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -34837,7 +34837,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1200274950
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -35084,7 +35084,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1208094261
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -35246,8 +35246,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
-  SpikeRandomYesNo: 2
-  Angle: 0
+  SpikeRandomYesNo: 1
+  AngleRandomZero90: 1
 --- !u!208 &1211545878
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -35368,7 +35368,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1231855938
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -35481,7 +35481,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1231864022
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -35594,7 +35594,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1232365466
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -35707,7 +35707,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1238691774
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -35874,7 +35874,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1248389640
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -35991,7 +35991,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1263828586
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -36104,7 +36104,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1268079793
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -36217,7 +36217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1268889098
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -36422,7 +36422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1282740871
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -36581,7 +36581,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1285762492
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -36698,7 +36698,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1288566291
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -36880,7 +36880,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1294895156
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -36997,7 +36997,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1296225041
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -37110,7 +37110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1297095383
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -37256,7 +37256,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1302164663
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -37488,7 +37488,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1314634270
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -37605,7 +37605,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1323457859
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -37718,7 +37718,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1326479392
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -37900,7 +37900,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1330757083
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -38059,7 +38059,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1336106047
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -38172,7 +38172,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1336157729
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -38285,7 +38285,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1336611881
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -38406,7 +38406,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1338006897
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -38527,7 +38527,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1350628801
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -38810,7 +38810,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1376799235
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -38923,7 +38923,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1380324263
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -39105,7 +39105,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1384067407
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -39218,7 +39218,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1387910714
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -39525,7 +39525,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1403667408
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -39638,7 +39638,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1404410123
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -39801,7 +39801,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1407543306
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -40037,7 +40037,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1427463849
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -40196,7 +40196,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1429539744
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -40317,7 +40317,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1435725345
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -40430,7 +40430,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1436832853
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -40542,8 +40542,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
-  SpikeRandomYesNo: 2
-  Angle: 0
+  SpikeRandomYesNo: 1
+  AngleRandomZero90: 2
 --- !u!208 &1437875180
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -40702,7 +40702,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1442856051
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -40815,7 +40815,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1444036913
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -40928,7 +40928,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1445762952
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -41087,7 +41087,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1446643640
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -41200,7 +41200,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1451333586
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -41313,7 +41313,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1451885074
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -41430,7 +41430,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1452041696
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -41597,7 +41597,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1456551629
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -41779,7 +41779,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1462173765
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -41896,7 +41896,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 1
-  Angle: 0
+  AngleRandomZero90: 2
 --- !u!208 &1468917199
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -42009,7 +42009,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1469300911
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -42122,7 +42122,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1471649594
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -42304,7 +42304,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1476618963
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -42421,7 +42421,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1477962399
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -42603,7 +42603,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1483230199
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -42720,7 +42720,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1495438864
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -42933,7 +42933,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1502307813
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -43361,7 +43361,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1545501801
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -43635,7 +43635,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1555738087
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -43991,7 +43991,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1577265137
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -44104,7 +44104,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1580006989
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -44286,7 +44286,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1585485958
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -44445,7 +44445,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1588103287
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -44558,7 +44558,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1588577259
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -44721,7 +44721,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1595546842
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -44834,7 +44834,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1598743208
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -45089,7 +45089,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1619753252
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -45202,7 +45202,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1625649471
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -45365,7 +45365,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1636274994
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -45478,7 +45478,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1647516858
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -45591,7 +45591,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1651996766
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -45800,7 +45800,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1660976884
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -45959,7 +45959,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1661422430
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -46072,7 +46072,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1662462307
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -46185,7 +46185,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1663302340
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -46425,7 +46425,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1684891258
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -46588,7 +46588,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1688273207
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -46946,7 +46946,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1696052711
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -47105,7 +47105,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1700785387
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -47333,7 +47333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1704537975
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -47538,7 +47538,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1715672667
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -47885,7 +47885,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1733642950
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -48048,7 +48048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1741744780
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -48161,7 +48161,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1742511277
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -48278,7 +48278,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1748760995
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -48506,7 +48506,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1756244278
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -48692,7 +48692,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1775138807
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -48805,7 +48805,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1782584342
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -48964,7 +48964,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1788286678
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -49085,7 +49085,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1795141626
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -49275,7 +49275,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1801450379
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -49388,7 +49388,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1802073619
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -49501,7 +49501,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1803890819
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -49660,7 +49660,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1805295638
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -49777,7 +49777,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1815599987
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -49890,7 +49890,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 1
-  Angle: 90
+  AngleRandomZero90: 1
 --- !u!208 &1820542978
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -50118,7 +50118,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1830713079
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -50231,7 +50231,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1832213326
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -50344,7 +50344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1832792996
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -50499,7 +50499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1833964006
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -50731,7 +50731,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1846928397
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -50844,7 +50844,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1848673577
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -50957,7 +50957,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1852811405
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -51162,7 +51162,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1860532253
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -51394,7 +51394,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1872345049
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -51515,7 +51515,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1881389035
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -51632,7 +51632,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1882210163
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -51745,7 +51745,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1886490140
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -51858,7 +51858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1887856100
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -51971,7 +51971,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1891261846
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -52432,7 +52432,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1913785496
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -52545,7 +52545,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1916616216
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -52859,7 +52859,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1953295198
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -53041,7 +53041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1956744654
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -53153,8 +53153,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
-  SpikeRandomYesNo: 2
-  Angle: 0
+  SpikeRandomYesNo: 1
+  AngleRandomZero90: 2
 --- !u!208 &1961465514
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -53267,7 +53267,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1962893525
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -53384,7 +53384,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1968539573
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -53593,7 +53593,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1984556800
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -53756,7 +53756,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &1996908534
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -54007,7 +54007,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2010041682
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -54124,7 +54124,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2020213389
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -54237,7 +54237,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2021343863
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -54350,7 +54350,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2028262642
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -54532,7 +54532,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2033985822
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -54795,7 +54795,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2054902199
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -54981,7 +54981,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2067120012
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -55136,7 +55136,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2069828208
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -55295,7 +55295,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2074823662
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -55408,7 +55408,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2082081886
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -55963,7 +55963,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2087532422
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -56076,7 +56076,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2091882844
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -56316,7 +56316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2107043550
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -56475,7 +56475,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2112505328
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -56588,7 +56588,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2112584347
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -56701,7 +56701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2117627416
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -57025,7 +57025,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2135500905
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -57138,7 +57138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2137096689
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -57259,7 +57259,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2139331990
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -57372,7 +57372,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2143959700
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -57497,7 +57497,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Trap1: {fileID: 1949830147760460, guid: 4d812549df59cd54e8bebac036fadb50, type: 2}
   SpikeRandomYesNo: 2
-  Angle: 0
+  AngleRandomZero90: 0
 --- !u!208 &2146243667
 NavMeshObstacle:
   m_ObjectHideFlags: 0
