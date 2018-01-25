@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using UnityEngine.SceneManagement;
 
 public class MinotaurBehaviour : MonoBehaviour {
 
@@ -11,6 +12,7 @@ public class MinotaurBehaviour : MonoBehaviour {
 	float life=50;
 
 	bool isDead=false;
+	int timeToMenu=500;
 
 	// Use this for initialization
 	void Start () {
@@ -24,8 +26,14 @@ public class MinotaurBehaviour : MonoBehaviour {
 			if (!isDead) {
 				gameObject.GetComponent<Animator> ().Play ("Death1");
 				isDead = true;
+			} else {
+				timeToMenu--;
 			}
 			PlayerHealth.inFight = false;
+
+			if (timeToMenu == 0) {
+				SceneManager.LoadScene("Menu", LoadSceneMode.Additive);
+			}
 
 		} else {
 			
