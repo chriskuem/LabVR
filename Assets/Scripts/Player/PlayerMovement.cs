@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour {
             if (GvrControllerInput.IsTouching) transform.position = transform.position + Camera.main.transform.forward * distance * Time.deltaTime;
         } else if (controllerMode == 1) {
             // teleport
-            gameObject.transform.GetChild(2).GetChild(0).gameObject.active = true;
+            gameObject.transform.GetChild(1).GetChild(0).gameObject.active = true;
         } else if (controllerMode == 2) {
             // tunneling
             gameObject.transform.GetChild(0).gameObject.active = true;

@@ -32,7 +32,7 @@ public class MinotaurBehaviour : MonoBehaviour {
 			PlayerHealth.inFight = false;
 
 			if (timeToMenu == 0) {
-				SceneManager.LoadScene("Menu", LoadSceneMode.Additive);
+				SceneManager.LoadScene(0, LoadSceneMode.Single);
 			}
 
 		} else {

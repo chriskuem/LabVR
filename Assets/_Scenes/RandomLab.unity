@@ -9021,7 +9021,7 @@ MonoBehaviour:
   emptyTile: {fileID: 1281263421049128, guid: 9bf2f46f332f36a468a4d1e0f5ebcd85, type: 2}
   player: {fileID: 1547831563627230, guid: 6bdaf6e642a02452ebf37fd5fde97a71, type: 2}
   labSize: 20
-  minCornersToCenter: 20
+  minCornersToCenter: 10
 --- !u!4 &2086141422
 Transform:
   m_ObjectHideFlags: 0

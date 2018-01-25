@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/AntikeGeschichte.unity
     guid: 4949be62849346140a50787d8d81098c
+  - enabled: 1
+    path: Assets/_Scenes/RandomLab.unity
+    guid: 17f0db5024ddf2045b98159d4887cfd9

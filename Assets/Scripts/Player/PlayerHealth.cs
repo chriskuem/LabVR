@@ -26,28 +26,31 @@ public class PlayerHealth : MonoBehaviour {
 
 			//max 1 behind .
 			life=Convert.ToInt32(life*10f)/10f;
+
 		}
+		TextMesh tM = gameObject.GetComponent(typeof(TextMesh)) as TextMesh;
+		tM.text = "HP: " + life + "%";
 	}
 
-	void OnGUI () {
-		// Create one Group to contain both images
-		// Adjust the first 2 coordinates to place it somewhere else on-screen
-		GUI.BeginGroup (new Rect (xPosi,0, healthBarLength,32));
+	// void OnGUI () {
+	// 	// Create one Group to contain both images
+	// 	// Adjust the first 2 coordinates to place it somewhere else on-screen
+	// 	GUI.BeginGroup (new Rect (xPosi,0, healthBarLength,32));
 
-		// Draw the background image
-		GUI.Box (new Rect (0,0, healthBarLength,32), life+"%");
+	// 	// Draw the background image
+	// 	GUI.Box (new Rect (0,0, healthBarLength,32), life+"%");
 
-		// Create a second Group which will be clipped
-		// We want to clip the image and not scale it, which is why we need the second Group
-		GUI.BeginGroup (new Rect (0,0, life / maxHealth * healthBarLength, 32));
+	// 	// Create a second Group which will be clipped
+	// 	// We want to clip the image and not scale it, which is why we need the second Group
+	// 	GUI.BeginGroup (new Rect (0,0, life / maxHealth * healthBarLength, 32));
 
-		// Draw the foreground image
-		GUI.Box (new Rect (0,0,healthBarLength,32), life+"%");
+	// 	// Draw the foreground image
+	// 	GUI.Box (new Rect (0,0,healthBarLength,32), life+"%");
 
-		// End both Groups
-		GUI.EndGroup ();
+	// 	// End both Groups
+	// 	GUI.EndGroup ();
 
-		GUI.EndGroup ();
-	}
+	// 	GUI.EndGroup ();
+	// }
 
 }
