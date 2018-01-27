@@ -15,7 +15,7 @@ public class PlaceSigns : MonoBehaviour {
 
 		signContents.Add ("12.-13. Jh. v. Chr.| Fall Trojas|");
 		signContents.Add ("814 v. Chr.| Gründung Karthago|");
-		signContents.Add ("8. Jh. v. Chr.| Homer: Ilias & Odysee|" 																							+ System.Environment.NewLine +System.Environment.NewLine + "Links: 8. Jh. v. Chr."+System.Environment.NewLine + "Rechts: 6. Jh. v. Chr.");
+		signContents.Add ("8. Jh. v. Chr.| Homer: Ilias & Odyssee|" 																							+ System.Environment.NewLine +System.Environment.NewLine + "Links: 8. Jh. v. Chr."+System.Environment.NewLine + "Rechts: 6. Jh. v. Chr.");
 		signContents.Add ("753 v. Chr.| Gründung Roms|"																									+ System.Environment.NewLine +System.Environment.NewLine + "Links: 763 v. Chr."+System.Environment.NewLine + "Geradeaus: 753 v. Chr.");
 		signContents.Add ("700 v. Chr.| „Werke und Tage“ – Hesiod|"																						+ System.Environment.NewLine +System.Environment.NewLine + "Rechts: 600 v. Chr."+System.Environment.NewLine + "Geradeaus: 700 v. Chr.");
 		signContents.Add ("650-500 v. Chr.| Tyrannenherrschaften|"																						+ System.Environment.NewLine +System.Environment.NewLine + "Rechts: 650-500 v. Chr."+System.Environment.NewLine + "Geradeaus: 750-600 v. Chr.");
@@ -29,8 +29,8 @@ public class PlaceSigns : MonoBehaviour {
 		signContents.Add ("469-399 v. Chr.| Sokrates|"																									+ System.Environment.NewLine +System.Environment.NewLine + "Rechts: 439-359 v. Chr."+System.Environment.NewLine + "Geradeaus: 469-399 v. Chr.");
 		signContents.Add ("461-451 v. Chr.| Erster peloponnesischer Krieg|");
 		signContents.Add ("431-404 v. Chr.| Zweiter peloponnesischer Krieg|");
-		signContents.Add ("405-367 v. Chr.| Dionysos I. Tyrann von Syrakus|");
-		signContents.Add ("396 v. Chr.| Marcus wird " + System.Environment.NewLine + "römischer Diktator|");
+		signContents.Add ("405-367 v. Chr.| Dionysios I. - Tyrann von Syrakus|");
+		signContents.Add ("396 v. Chr.| Camillus erobert als " + System.Environment.NewLine + "römischer Diktator die Handelsstadt Veji|");
 		signContents.Add ("356-323 v. Chr.| Alexander der Große|");
 		signContents.Add ("301 v. Chr.| Schlacht von Ipsos – " + System.Environment.NewLine + "erste Konsolidierung des Diadochenreichs|"				+ System.Environment.NewLine +System.Environment.NewLine + "Links: 295 v. Chr."+System.Environment.NewLine + "Rechts: 301 v. Chr.");
 		signContents.Add ("264-241 v. Chr.| I. Punischer Krieg|");
